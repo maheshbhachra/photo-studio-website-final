@@ -1,16 +1,38 @@
-# React + Vite
+# Photo Studio Website 📸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive photo studio website built using **React** and **Tailwind CSS**.  
+The project focuses on clean UI, smooth interactions, and an engaging portfolio layout.
 
-Currently, two official plugins are available:
+This project was created as part of a **Frontend Development Internship task**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Clean and modern UI design  
+- Horizontal scroll portfolio section  
+- Smooth hover interactions  
+- Booking / contact section  
+- Component-based React structure  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React  
+- Tailwind CSS  
+- Vite  
+
+---
+
+
+## Important Note
+The `src` folder is uploaded in compressed format as `src.zip`.  
+Please extract `src.zip` to get the `src` folder before running the project.
+
+
+## How to Run
+1. Download the project
+2. Extract `src.zip`
+3. Install dependencies using `npm install`
+4. Start the project using `npm run dev`
