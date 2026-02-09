@@ -26,11 +26,6 @@ This project was created as part of a **Frontend Development Internship task**.
 ---
 
 
-## Important Note
-The `src` folder is uploaded in compressed format as `src.zip`.  
-Please extract `src.zip` to get the `src` folder before running the project.
-
-
 ## How to Run
 1. Download the project
 2. Extract `src.zip`
