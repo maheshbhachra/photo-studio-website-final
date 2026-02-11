@@ -28,6 +28,5 @@ This project was created as part of a **Frontend Development Internship task**.
 
 ## How to Run
 1. Download the project
-2. Extract `src.zip`
 3. Install dependencies using `npm install`
 4. Start the project using `npm run dev`
